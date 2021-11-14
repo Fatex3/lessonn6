@@ -1,0 +1,10 @@
+.animation {
+    background-color: red;
+}
+
+
+
+@keyframes animation {
+    from {top: 0px;}
+    to {top: 200px;}
+}
